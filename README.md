@@ -1,7 +1,5 @@
 # Tkinter Multiplication Quiz
 
-:contentReference[oaicite:0]{index=0}
-
 A lightweight desktop quiz app built with Python and Tkinter to help improve mental maths and multiplication speed in a clean, distraction-free interface.
 
 ## Features
